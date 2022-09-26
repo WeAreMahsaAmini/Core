@@ -13,6 +13,8 @@
 
 ## How to contribute?
 
+### For everyone
+
 ### As an engineer
 
 ### As a marketer or content producer
