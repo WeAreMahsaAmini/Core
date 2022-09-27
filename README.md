@@ -1,4 +1,4 @@
-# Core
+# Core [![](https://dcbadge.vercel.app/api/server/ASDSFjGAAW)](https://discord.gg/ASDSFjGAAW)
 
 [Discord Link](https://discord.gg/XFUdYdkNMB)
 
