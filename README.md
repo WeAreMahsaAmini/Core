@@ -4,10 +4,18 @@
 
 ![FdfxKKuXEAAG3uI](https://user-images.githubusercontent.com/445636/192323225-1d600e15-4097-4432-9533-85563436fb29.jpeg)
 
-
+- [Core](#core)
+  - [What is the purpose of this repository?](#what-is-the-purpose-of-this-repository)
+  - [How to contribute?](#how-to-contribute)
+    - [Participate in discussions](#participate-in-discussions)
+    - [Work on projects](#work-on-projects)
+  - [Governance](#governance)
+  - [FAQ](#faq)
+    - [What are the types of ideas we're looking for?](#what-are-the-types-of-ideas-were-looking-for)
+    - [What type of skills do we need?](#what-type-of-skills-do-we-need)
 ## What is the purpose of this repository?
 
-The `Core` repository is designed to orchestrate all the different projects and build alignemnt. It includes, guidelines, ideas, discussions, etc. If you want to make changes to this repository, feel free to open an issue and suggest the change, or fork the project and open a pull request to the `master` branch.
+The `Core` repository is designed to orchestrate all the different projects and build alignemnt. It includes, guidelines, ideas, discussions, etc. If you want to make changes to this repository, feel free to open an issue and suggest the change, or fork the project and open a pull request to the `main` branch.
 
 You can find all the projects we're working on [here](https://github.com/orgs/WeAreMahsaAmini/repositories). 
 
