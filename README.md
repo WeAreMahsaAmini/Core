@@ -20,7 +20,7 @@ The discussions section is mostly designed for aligning contributors. In the dis
 * [Participate on existing ideas](https://github.com/WeAreMahsaAmini/Core/discussions/categories/ideas) by voting or commenting
 * [Ask your questions](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=q-a) related to the movement (e.g. How does Starlink work?) or the projects
 
-### Become a member of the execution team
+### Work on projects
 
 We are working on many different projects that we believe can help the movement. Each project require different skill sets and has its own contribution guidelines. [Here](https://github.com/orgs/WeAreMahsaAmini/repositories), you can find the one you're interested in.
 
