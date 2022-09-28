@@ -20,6 +20,10 @@ You can find all the projects we're working on [here](https://github.com/orgs/We
 
 ## How to contribute?
 
+> **Note**
+> 
+> For safety reasons you may consider not using your personal Github or Discord account.
+
 ### Participate in discussions
 
 The discussions section is mostly designed for aligning contributors. In the discussions section, you can:
@@ -32,6 +36,10 @@ The discussions section is mostly designed for aligning contributors. In the dis
 ### Work on projects
 
 We are working on many different projects that we believe can help the movement. Each project require different skill sets and has its own contribution guidelines. [Here](https://github.com/orgs/WeAreMahsaAmini/repositories), you can find the one you're interested in.
+
+### Join our Discord server
+
+We've set up a Discord server for adhoc communication. You can join it [here](https://discord.gg/ZygYz7vQ).
 
 ## Governance
 
