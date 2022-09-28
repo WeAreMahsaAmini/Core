@@ -1,4 +1,5 @@
 # Core
+
 [![](https://dcbadge.vercel.app/api/server/ASDSFjGAAW?style=plastic)](https://discord.gg/ASDSFjGAAW)
 
 ![FdfxKKuXEAAG3uI](https://user-images.githubusercontent.com/445636/192323225-1d600e15-4097-4432-9533-85563436fb29.jpeg)
@@ -12,26 +13,29 @@
   - [FAQ](#faq)
     - [What are the types of ideas we're looking for?](#what-are-the-types-of-ideas-were-looking-for)
     - [What type of skills do we need?](#what-type-of-skills-do-we-need)
+
 ## What is the purpose of this repository?
 
 The `Core` repository is designed to orchestrate all the different projects and build alignemnt. It includes, guidelines, ideas, discussions, etc. If you want to make changes to this repository, feel free to open an issue and suggest the change, or fork the project and open a pull request to the `main` branch.
 
-You can find all the projects we're working on [here](https://github.com/orgs/WeAreMahsaAmini/repositories). 
+You can find all the projects we're working on [here](https://github.com/orgs/WeAreMahsaAmini/repositories).
 
 ## How to contribute?
 
 > **Note**
-> 
-> For safety reasons you may consider not using your personal Github or Discord account.
+>
+> 🚨 For safety reasons you may consider not using your personal Github or Discord account.
+>
+> 🚨 Make sure you don't expose your personal email address when pushing commits. [More info](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/blocking-command-line-pushes-that-expose-your-personal-email-address)
 
 ### Participate in discussions
 
 The discussions section is mostly designed for aligning contributors. In the discussions section, you can:
 
-* [Introduce yourself](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=introductions) and how your skills can benefit the movement (e.g. I'm a graphist and I can help with poster design)
-* [Suggest a new idea](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=ideas) that will help the movement (e.g. Twitter unsafe account detector)
-* [Participate on existing ideas](https://github.com/WeAreMahsaAmini/Core/discussions/categories/ideas) by voting or commenting
-* [Ask your questions](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=q-a) related to the movement (e.g. How does Starlink work?) or the projects
+- [Introduce yourself](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=introductions) and how your skills can benefit the movement (e.g. I'm a graphist and I can help with poster design)
+- [Suggest a new idea](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=ideas) that will help the movement (e.g. Twitter unsafe account detector)
+- [Participate on existing ideas](https://github.com/WeAreMahsaAmini/Core/discussions/categories/ideas) by voting or commenting
+- [Ask your questions](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=q-a) related to the movement (e.g. How does Starlink work?) or the projects
 
 ### Work on projects
 
@@ -65,9 +69,8 @@ You can submit your ideas using [this form](https://github.com/WeAreMahsaAmini/C
 
 Each project has different requirements, but if you have any of the below skills you can help us move the projects forward:
 
-* Computer programming (e.g. React, Node.js, etc.)
-* UI design (e.g. Figma, etc.)
-* Illustration and graphic design (e.g. creating posters and graphic assets)
-* Marketing and distribution (e.g. being an influencer, or knowledge in content marketing)
-* Content creation (e.g. being able to create net new content or translate content into different languages)
-
+- Computer programming (e.g. React, Node.js, etc.)
+- UI design (e.g. Figma, etc.)
+- Illustration and graphic design (e.g. creating posters and graphic assets)
+- Marketing and distribution (e.g. being an influencer, or knowledge in content marketing)
+- Content creation (e.g. being able to create net new content or translate content into different languages)
