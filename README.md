@@ -5,6 +5,7 @@
 ![FdfxKKuXEAAG3uI](https://user-images.githubusercontent.com/445636/192323225-1d600e15-4097-4432-9533-85563436fb29.jpeg)
 
 - [Core](#core)
+  - [Mission](#mission)
   - [What is the purpose of this repository?](#what-is-the-purpose-of-this-repository)
   - [How to contribute?](#how-to-contribute)
     - [Participate in discussions](#participate-in-discussions)
