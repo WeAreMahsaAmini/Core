@@ -24,9 +24,9 @@ You can find all the projects we're working on [here](https://github.com/orgs/We
 
 > **Note**
 >
-> For safety reasons you may consider not using your personal Github or Discord account.
+> 🚨 For safety reasons you may consider not using your personal Github or Discord account.
 >
-> Make sure you don't expose your personal email address when pushing commits. [More info](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/blocking-command-line-pushes-that-expose-your-personal-email-address)
+> 🚨 Make sure you don't expose your personal email address when pushing commits. [More info](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/blocking-command-line-pushes-that-expose-your-personal-email-address)
 
 ### Participate in discussions
 
