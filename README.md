@@ -14,6 +14,10 @@
     - [What are the types of ideas we're looking for?](#what-are-the-types-of-ideas-were-looking-for)
     - [What type of skills do we need?](#what-type-of-skills-do-we-need)
 
+## Mission
+
+Create alignment for Iranians and awareness for non-Iranians towards #MahsaAmini and what's currently happening in Iran.
+
 ## What is the purpose of this repository?
 
 The `Core` repository is designed to orchestrate all the different projects and build alignemnt. It includes, guidelines, ideas, discussions, etc. If you want to make changes to this repository, feel free to open an issue and suggest the change, or fork the project and open a pull request to the `main` branch.
@@ -36,6 +40,10 @@ The discussions section is mostly designed for aligning contributors. In the dis
 - [Suggest a new idea](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=ideas) that will help the movement (e.g. Twitter unsafe account detector)
 - [Participate on existing ideas](https://github.com/WeAreMahsaAmini/Core/discussions/categories/ideas) by voting or commenting
 - [Ask your questions](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=q-a) related to the movement (e.g. How does Starlink work?) or the projects
+
+> **Note**
+>
+> This project does not support ideas or solutions that spread violence and destruction, or are globally illegal activities. Discussions that are categorized as such will be archived.
 
 ### Work on projects
 
