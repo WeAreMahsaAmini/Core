@@ -5,7 +5,7 @@
 ![FdfxKKuXEAAG3uI](https://user-images.githubusercontent.com/445636/192323225-1d600e15-4097-4432-9533-85563436fb29.jpeg)
 
 - [Core](#core)
-
+  - [Mission](#mission)
   - [What is the purpose of this repository?](#what-is-the-purpose-of-this-repository)
   - [How to contribute?](#how-to-contribute)
     - [Participate in discussions](#participate-in-discussions)
@@ -14,6 +14,10 @@
   - [FAQ](#faq)
     - [What are the types of ideas we're looking for?](#what-are-the-types-of-ideas-were-looking-for)
     - [What type of skills do we need?](#what-type-of-skills-do-we-need)
+
+## Mission
+
+Create alignment for Iranians and awareness for non-Iranians towards #MahsaAmini and what's currently happening in Iran.
 
 ## What is the purpose of this repository?
 
@@ -24,8 +28,6 @@ You can find all the projects we're working on [here](https://github.com/orgs/We
 ## How to contribute?
 
 > **Note**
-
-> # For safety reasons you may consider not using your personal Github or Discord account.
 >
 > 🚨 For safety reasons you may consider not using your personal Github or Discord account.
 >
@@ -40,9 +42,20 @@ The discussions section is mostly designed for aligning contributors. In the dis
 - [Participate on existing ideas](https://github.com/WeAreMahsaAmini/Core/discussions/categories/ideas) by voting or commenting
 - [Ask your questions](https://github.com/WeAreMahsaAmini/Core/discussions/new?category=q-a) related to the movement (e.g. How does Starlink work?) or the projects
 
+> **Note**
+>
+> This project does not support ideas or solutions that spread violence and destruction, or are globally illegal activities. Discussions that are categorized as such will be archived.
+
 ### Work on projects
 
-We are working on many different projects that we believe can help the movement. Each project require different skill sets and has its own contribution guidelines. [Here](https://github.com/orgs/WeAreMahsaAmini/repositories), you can find the one you're interested in.
+We are working on many different projects that we believe can help the movement. Check out our [Contribution Guide](https://github.com/WeAreMahsaAmini/Core/blob/main/CONTRIBUTING.md) to learn more.
+
+To give you a teaser, here are a few projects we're actively working on:
+1. [The celebrity wall](https://github.com/WeAreMahsaAmini/CelebrityWall)
+2. [WeAreMahsaAmini homepage](https://github.com/WeAreMahsaAmini/Homepage)
+3. [WeAreMahsaAmini Telegram bot](https://github.com/WeAreMahsaAmini/TelegramBot)
+4. ["Baraye Azadi" collection](https://github.com/WeAreMahsaAmini/TwitterScraper)
+
 
 ### Join our Discord server
 
