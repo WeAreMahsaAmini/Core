@@ -48,7 +48,14 @@ The discussions section is mostly designed for aligning contributors. In the dis
 
 ### Work on projects
 
-We are working on many different projects that we believe can help the movement. Each project require different skill sets and has its own contribution guidelines. [Here](https://github.com/orgs/WeAreMahsaAmini/repositories), you can find the one you're interested in.
+We are working on many different projects that we believe can help the movement. Check out our [Contribution Guide](https://github.com/WeAreMahsaAmini/Core/blob/main/CONTRIBUTING.md) to learn more.
+
+To give you a teaser, here are a few projects we're actively working on:
+1. [The celebrity wall](https://github.com/WeAreMahsaAmini/CelebrityWall)
+2. [WeAreMahsaAmini homepage](https://github.com/WeAreMahsaAmini/Homepage)
+3. [WeAreMahsaAmini Telegram bot](https://github.com/WeAreMahsaAmini/TelegramBot)
+4. ["Baraye Azadi" collection](https://github.com/WeAreMahsaAmini/TwitterScraper)
+
 
 ### Join our Discord server
 
