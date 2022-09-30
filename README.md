@@ -56,7 +56,7 @@ To give you a teaser, here are a few projects we're actively working on:
 3. [WeAreMahsaAmini Telegram bot](https://github.com/WeAreMahsaAmini/TelegramBot)
 4. ["Baraye Azadi" collection](https://github.com/WeAreMahsaAmini/TwitterScraper)
 5. [Free Internet Project](https://github.com/WeAreMahsaAmini/FreeInternet)
-6. NFT collection project to support people who were fire from their job
+6. NFT collection project to support people who were fired from their job
 
 
 ### Join our Discord server
