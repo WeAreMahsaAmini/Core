@@ -61,7 +61,7 @@ To give you a teaser, here are a few projects we're actively working on:
 
 ### Join our Discord server
 
-We've set up a Discord server for adhoc communication. You can join it [here](https://discord.gg/ZygYz7vQ).
+We've set up a Discord server for adhoc communication. You can join it [here](https://discord.gg/ASDSFjGAAW).
 
 ## Governance
 
