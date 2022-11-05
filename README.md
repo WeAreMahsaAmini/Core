@@ -2,7 +2,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/ASDSFjGAAW?style=plastic)](https://discord.gg/ASDSFjGAAW)
 
-![FdfxKKuXEAAG3uI](https://user-images.githubusercontent.com/445636/192323225-1d600e15-4097-4432-9533-85563436fb29.jpeg)
+![FdfxKKuXEAAG3uI](https://media.discordapp.net/attachments/623586112891519016/1033810380742467695/10k_-_ZZA_Logo_Long_-_AJ.png?width=1076&height=605)
 
 - [Core](#core)
   - [Mission](#mission)
